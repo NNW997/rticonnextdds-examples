@@ -44,3 +44,6 @@ the following command to pull all the dependencies:
 ```bash
 git submodule update --init --recursive
 ```
+
+## Fork notes
+You are currently on a fork of the project! Currently, only branch `release/6.1.1` has new content.
